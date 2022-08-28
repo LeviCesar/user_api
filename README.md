@@ -1,5 +1,8 @@
 # User Auth and Manager 
 
+> Simple async API project, using FastAPI and Tortoise ORM, 
+> to manager user account and authenticate with JWT Token. 
+
 ## tasks project
 
 ### User Auth Tasks
@@ -22,7 +25,6 @@
 
 - Python 3.8+
 - \src\\.env secret configs  
-- 
 
 ## Run Project
 
